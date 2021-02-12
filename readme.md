@@ -39,3 +39,17 @@
     6). ... 
 
 
+5). Shahjahan
+    1). Redesign Slider section
+    2). Redesign Our Services
+    3). Redesign button componetn
+    4). ...
+
+6). Hamyoon
+   1). Redesign Slider section
+   2). Our Work Section Redesign
+   3). Redesign icons
+   4). Button otline issue
+   5). Redesign Blog section
+   6). Use proper Container in Contact us section
+   7). Redesign Footer
